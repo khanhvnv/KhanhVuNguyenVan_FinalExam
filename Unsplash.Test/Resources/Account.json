@@ -1,0 +1,32 @@
+{
+  "default": {
+    "username": "vienkeo",
+    "email": "vienkeo112@gmail.com",
+    "password": "nhien@1234",
+    "userId": "1",
+    "tokenId": "qV4GcXTHsa3I4nsFfEUfqrNwXLybHqM-qlzdCmLX8BU",
+    "name": "Khanh Vu",
+    "first_name": "Khanh",
+    "last_name": "Vu"
+  },
+  "admin": {
+    "username": "vienkeo",
+    "email": "vienkeo112@gmail.com",
+    "password": "nhien@1234",
+    "userId": "2",
+    "tokenId": "qV4GcXTHsa3I4nsFfEUfqrNwXLybHqM-qlzdCmLX8BU",
+    "name": "Khanh Vu",
+    "first_name": "Khanh",
+    "last_name": "Vu"
+  },
+  "user_1": {
+    "username": "vienkeo1",
+    "email": "kha.nguyentruong@gmail.com",
+    "password": "nhien@1234",
+    "userId": "2",
+    "tokenId": "JfLFYd_AxaN5GDBkFJ5S4CoP_UlZ9V9cp6_m6Tck3P4",
+    "name": "Khanh Vu",
+    "first_name": "Khanh",
+    "last_name": "Vu"
+  }
+}
